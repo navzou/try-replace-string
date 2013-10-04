@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>A45389FF-A5A7-4B15-87AC-CAF5D7FE4C89</string>
+	<key>IDESourceControlProjectName</key>
+	<string>ReplaceString</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>E144670A-6960-4E3B-8ED1-0B65506FEA37</key>
+		<string>https://github.com/navzou/try-replace-string.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>ReplaceString/ReplaceString.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>E144670A-6960-4E3B-8ED1-0B65506FEA37</key>
+		<string>../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/navzou/try-replace-string.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>E144670A-6960-4E3B-8ED1-0B65506FEA37</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>E144670A-6960-4E3B-8ED1-0B65506FEA37</string>
+			<key>IDESourceControlWCCName</key>
+			<string>try-replace-string</string>
+		</dict>
+	</array>
+</dict>
+</plist>
